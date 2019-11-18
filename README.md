@@ -1,3 +1,5 @@
+# This is a c++17 fork of the original JSON for Modern C++ library that can be found here: https://github.com/nlohmann/json 
+
 [![JSON for Modern C++](https://raw.githubusercontent.com/nlohmann/json/master/doc/json.gif)](https://github.com/nlohmann/json/releases)
 
 [![Build Status](https://travis-ci.org/nlohmann/json.svg?branch=master)](https://travis-ci.org/nlohmann/json)
